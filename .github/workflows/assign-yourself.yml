@@ -1,4 +1,4 @@
-// https://github.com/open-sauced/open-sauced/blob/main/.github/workflows/assign-yourself.yml
+# // https://github.com/open-sauced/open-sauced/blob/main/.github/workflows/assign-yourself.yml
 
 name: Assign
 on:
